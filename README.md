@@ -7,12 +7,12 @@ original images and cropped and scaled them back down to different
 common screen sizes.
 
 
-## 🫂 Pom Pom Group Hug 🫂
+## 🫂🤗 Pom Pom Group Hug 🤗🫂
 
 ![img](1920x1080/1920x1080_purin-group-hug.jpg)
 
 
-## 🐯 Proud Tiger Pom Pom Purin 🐯
+## 🐯🐅 The Proud Tiger Purin 🐅🐯
 
 ![img](1920x1080/1920x1080_purin-proud-tiger.jpg)
 
@@ -22,7 +22,27 @@ common screen sizes.
 ![img](1920x1080/1920x1080_purin-tsunami.jpg)
 
 
-## 🌻☀️ Purin Singing In The Sunflower Field ☀️🌻
+## 🌻☀️ Melodic Pom Pom Purin ☀️🌻
 
 ![img](1920x1080/1920x1080_purin-sunflower-field.jpg)
+
+
+## ⭐📷 Purin The Happy Photograph 📷⭐
+
+![img](1920x1080/1920x1080_purin-the-happy-photograph.jpg)
+
+
+## 🌛😴 Sleepy Pom Pom Purin 😴🌜
+
+![img](1920x1080/1920x1080_purin-sleepy.jpg)
+
+
+## 🍣🌾 Onigiri Time In The Field Purin 🌾🍣
+
+![img](1920x1080/1920x1080_purin-onigiri-in-the-field.jpg)
+
+
+## 🥗😋 Purin Picnic With Friends 😋🥗
+
+![img](1920x1080/1920x1080_purin-picnic-and-friends.jpg)
 
