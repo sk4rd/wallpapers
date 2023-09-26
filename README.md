@@ -9,40 +9,80 @@ common screen sizes.
 
 ## 🫂🤗 Pom Pom Group Hug 🤗🫂
 
-![img](1920x1080/1920x1080_purin-group-hug.jpg)
+![img](16-9/3840x2160_purin-group-hug.jpg)
 
 
 ## 🐯🐅 The Proud Tiger Purin 🐅🐯
 
-![img](1920x1080/1920x1080_purin-proud-tiger.jpg)
+![img](16-9/3840x2160_purin-proud-tiger.jpg)
 
 
 ## 🌊‼️ Pom Pom Tsunami ‼️🌊
 
-![img](1920x1080/1920x1080_purin-tsunami.jpg)
+![img](16-9/3840x2160_purin-tsunami.jpg)
 
 
 ## 🌻☀️ Melodic Pom Pom Purin ☀️🌻
 
-![img](1920x1080/1920x1080_purin-sunflower-field.jpg)
+![img](16-9/3840x2160_purin-sunflower-field.jpg)
 
 
 ## ⭐📷 Purin The Happy Photograph 📷⭐
 
-![img](1920x1080/1920x1080_purin-the-happy-photograph.jpg)
+![img](16-9/3840x2160_purin-the-happy-photograph.jpg)
 
 
 ## 🌛😴 Sleepy Pom Pom Purin 😴🌜
 
-![img](1920x1080/1920x1080_purin-sleepy.jpg)
+![img](16-9/3840x2160_purin-sleepy.jpg)
 
 
 ## 🍣🌾 Onigiri Time In The Field Purin 🌾🍣
 
-![img](1920x1080/1920x1080_purin-onigiri-in-the-field.jpg)
+![img](16-9/3840x2160_purin-onigiri-in-the-field.jpg)
 
 
 ## 🥗😋 Purin Picnic With Friends 😋🥗
 
-![img](1920x1080/1920x1080_purin-picnic-and-friends.jpg)
+![img](16-9/3840x2160_purin-picnic-and-friends.jpg)
+
+
+## 💫💤 Yawning Kuromi 💤💫
+
+![img](16-9/3840x2160_kuromi-yawning.jpg)
+
+
+## 🐦‍⬛☮️ Kuromi Peace Sign ☮️🐦‍⬛
+
+![img](16-9/3840x2160_kuromi-peace.jpg)
+
+
+## 💬🙉 Sassy Kuromi 🙉💬
+
+![img](16-9/3840x2160_kuromi-sassy.jpg)
+
+
+## 🖤🐈‍⬛ Gothic Kuromi 🐈‍⬛🖤
+
+![img](16-9/3840x2160_kuromi-gothic.jpg)
+
+
+## 🟣🟣 Kuromi Lineup 🟣🟣
+
+![img](16-9/3840x2160_kuromi-lineup.jpg)
+
+
+## 📚📖 Kuromi Desktop 📖📚
+
+![img](16-9/3840x2160_kuromi-dekstop.jpg)
+
+
+## 👾🖥️ Hacker Like Kuromi Screen 🖥️👾
+
+![img](16-9/3840x2160_kuromi-hacker-like.jpg)
+
+
+## 💜😁 Big Bright Kuromi Smile 😁💜
+
+![img](16-9/3840x2160_kuromi-shining-smile.jpg)
 
