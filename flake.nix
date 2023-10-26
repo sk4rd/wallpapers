@@ -10,7 +10,7 @@
       };
 
       config = {
-        pictures.source = let
+        wallpapers.source = let
           picMap = {
             voxel = "${self}/voxel";
             steampunk = "${self}/steampunk";
