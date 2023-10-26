@@ -8,7 +8,7 @@
         description = "Wallpaper theme to use.";
       };
 
-      config.home.file."${config.xdg.userDirs.pictures}".source = "${self}/wallpapers/${config.wallpaper.theme}";
+      config.home.file."${config.xdg.userDirs.pictures}/wallpapers".source = "${self}/${config.wallpaper.theme}";
     };
     
   };
