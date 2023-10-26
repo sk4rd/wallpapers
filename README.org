@@ -1,0 +1,40 @@
+#+title: Sk4rd's Wallpapers
+#+options: toc:nil num:nil
+
+This is my wallpaper repository, featuring lots of different themes
+and art styles. You can find all of the wallpapers in 4K
+(3840x2160). I have provided a shell script, which enables you to
+resize the images to your preferred resolution.
+
+** Resize script
+
+Before you can resize the images, you need to have =imagemagick=
+installed on your system.
+
+#+begin_src shell :results output :exports both
+  ./resize.sh -h
+#+end_src
+
+#+NAME: Result of -h
+#+RESULTS:
+: Usage: resize.sh [-h] [-i INPUT] [-o OUTPUT] [-r RESOLUTIONS]
+: Resize images to multiple resolutions.
+: 
+:     -h              display this help and exit
+:     -i INPUT        input image. (Required)
+:     -o OUTPUT       output directory. Defaults to current directory.
+:     -r RESOLUTIONS  comma separated list of resolutions (e.g. "800x600,1024x768"). (Required)
+: 
+: Example: resize.sh -i image.jpg -o resized/ -r "800x600,1024x768"
+
+** Dependencies
++ =imagemagick=
+
+* Wallpapers
+Below are links to the directories containing my wallpapers,
+categorized by theme.
+
++ [[file:voxel/][Voxel]]
++ [[file:steampunk/][Steampunk]]
++ [[file:pom-pom-purin/][Sanrio - Pom Pom Purin]]
++ [[file:kuromi/][Sanrio - Kuromi]]    
