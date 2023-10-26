@@ -2,7 +2,7 @@
   description = "Sk4rd's Wallpaper Flake";
 
   outputs = { self, ... }: {
-    homeManagerModules.pictures = { config, lib, ... }: {
+    homeManagerModules.wallpapers = { config, lib, ... }: {
       options.wallpapers.source = lib.mkOption {
         type = lib.types.path;
         default = "${self}/voxel";
