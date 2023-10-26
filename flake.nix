@@ -9,17 +9,19 @@
         description = "Select the wallpaper directory theme";
       };
 
-      config.pictures.source = let
-        picMap = {
-          voxel = "${self}/voxel";
-          steampunk = "${self}/steampunk";
-          purin = "${self}/purin";
-          kuromi = "${self}/kuromi";
-        };
-      in
-        picMap.${config.wallpapers.selection};
-
-      home.file."${config.xdg.userDirs.pictures}/wallpapers" = config.wallpapers.source;
+      config = {
+        pictures.source = let
+          picMap = {
+            voxel = "${self}/voxel";
+            steampunk = "${self}/steampunk";
+            purin = "${self}/purin";
+            kuromi = "${self}/kuromi";
+          };
+        in
+          picMap.${config.wallpapers.selection};
+        
+        home.file."${config.xdg.userDirs.pictures}/wallpapers" = config.wallpapers.source;
+      };
     };
   };
 }
