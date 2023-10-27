@@ -12,13 +12,13 @@
           };
           wallpaper.directory = mkOption {
             type = types.path;
-            default = "${config.xdg.userDirs.pictures}/wallpapers/";
+            default = "${config.xdg.userDirs.pictures}";
             description =
               "Wallpaper directory path (must be in home directory).";
           };
         };
 
-        config.home.file."${config.wallpaper.directory}".source =
+        config.home.file."${config.wallpaper.directory}/wallpapers".source =
           "${self}/${config.wallpaper.theme}";
       };
   };
