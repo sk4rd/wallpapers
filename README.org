@@ -36,5 +36,6 @@ categorized by theme.
 
 + [[file:voxel/][Voxel]]
 + [[file:steampunk/][Steampunk]]
++ [[file:fractals/][Fractals]]  
 + [[file:pom-pom-purin/][Sanrio - Pom Pom Purin]]
 + [[file:kuromi/][Sanrio - Kuromi]]    
