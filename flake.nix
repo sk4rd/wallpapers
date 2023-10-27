@@ -6,7 +6,8 @@
       with lib; {
         options = {
           wallpaper.theme = mkOption {
-            type = types.enum [ "voxel" "steampunk" "purin" "kuromi" ];
+            type =
+              types.enum [ "voxel" "steampunk" "fractals" "purin" "kuromi" ];
             default = "voxel";
             description = "Wallpaper theme to use.";
           };
