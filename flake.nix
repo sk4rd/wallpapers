@@ -2,14 +2,25 @@
   description = "Sk4rd's Wallpaper Flake";
 
   outputs = { self, ... }: {
-    homeManagerModules.wallpaper-module = { config, lib, ... }: {
-      options.wallpaper.theme = lib.mkOption {
-        type = lib.types.str;
-        description = "Wallpaper theme to use.";
-      };
+    homeManagerModules.wallpaper-module = { config, lib, ... }:
+      let
+        opt = options;
+        cfg = config;
+        hf = cfg.home.file;
+      in with lib; {
+        opt.wallpaper.theme = mkOption {
+          type = types.enum [ "voxel" "steampunk" "purin" "kuromi" ];
+          default = "voxel";
+          description = "Wallpaper theme to use.";
+        };
+        opt.wallpaper.directory = mkOption {
+          type = types.path;
+          default = "${cfg.xdg.userDirs.pictures}/wallpapers";
+          description = "Wallpaper directory path (must be in home directory).";
+        };
 
-      config.home.file."${config.xdg.userDirs.pictures}/wallpapers".source = "${self}/${config.wallpaper.theme}";
-    };
-    
+        hf."${cfg.wallpaper.directory}".source =
+          "${self}/${cfg.wallpaper.theme}";
+      };
   };
 }
