@@ -4,9 +4,9 @@
   outputs = { self, ... }: {
     homeManagerModules.wallpaper-module = { config, lib, ... }:
       let
-        opt = options;
-        cfg = config;
-        hf = cfg.home.file;
+        opt = "options";
+        cfg = "config";
+        hf = "${cfg}.home.file";
       in with lib; {
         opt.wallpaper.theme = mkOption {
           type = types.enum [ "voxel" "steampunk" "purin" "kuromi" ];
