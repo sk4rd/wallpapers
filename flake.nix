@@ -12,7 +12,7 @@
           };
           wallpaper.directory = mkOption {
             type = types.path;
-            default = "${cfg.xdg.userDirs.pictures}/wallpapers";
+            default = "${config.xdg.userDirs.pictures}/wallpapers";
             description =
               "Wallpaper directory path (must be in home directory).";
           };
