@@ -73,11 +73,14 @@ configuration as such:
 ** Configuration options
 You can then use the wallpaper module in any nix file under
 home-manager. You can specify which wallpaper theme you want to use,
-or change the default path, where they're going to be stored.
+or change the default path (where they're going to be stored).
 #+begin_src nix
   { wallpapers, ... }:
 
   {
+    # IMPORTANT Enable Wallpaper module
+    wallpaper.enable = true;
+
     # Wallpaper theme
     wallpaper.theme = "name-of-theme";
 
