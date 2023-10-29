@@ -5,6 +5,11 @@
     homeManagerModules.wallpaper-module = { config, lib, ... }:
       with lib; {
         options = {
+          wallpaper.enable = mkOption {
+            type = types.bool;
+            default = false;
+            description = "Enable the wallpaper module";
+          };
           wallpaper.theme = mkOption {
             type =
               types.enum [ "voxel" "steampunk" "fractals" "purin" "kuromi" ];
@@ -20,7 +25,7 @@
         };
 
         config.home.file."${config.wallpaper.directory}/wallpapers".source =
-          "${self}/${config.wallpaper.theme}";
+          mkIf config.wallpaper.enable "${self}/${config.wallpaper.theme}";
       };
   };
 }
