@@ -11,8 +11,14 @@
             description = "Enable the wallpaper module";
           };
           wallpaper.theme = mkOption {
-            type =
-              types.enum [ "voxel" "steampunk" "fractals" "purin" "kuromi" ];
+            type = types.enum [
+              "voxel"
+              "steampunk"
+              "fractals"
+              "purin"
+              "kuromi"
+              "gruvbox"
+            ];
             default = "voxel";
             description = "Wallpaper theme to use.";
           };

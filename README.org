@@ -10,11 +10,12 @@ resize the images to your preferred resolution.
 Below are links to the directories containing my wallpapers,
 categorized by theme.
 
++ [[file:gruvbox/][Gruvbox]]
 + [[file:voxel/][Voxel]]
 + [[file:steampunk/][Steampunk]]
-+ [[file:fractals/][Fractals]]  
++ [[file:fractals/][Fractals]]
 + [[file:pom-pom-purin/][Sanrio - Pom Pom Purin]]
-+ [[file:kuromi/][Sanrio - Kuromi]]    
++ [[file:kuromi/][Sanrio - Kuromi]]
 
 * Resize script
 Before you can resize the images, you need to have =imagemagick=
