@@ -9,26 +9,26 @@ are some exceptions.
 Below, you'll find links to directories containing wallpapers with a
 specific theme, together with a top pick (for showcase purposes).
 
-+ [[file:fractals/][Fractals]]
+** [[file:fractals/][Fractals]]
 
 [[file:fractals/fractals7.png]]
 
-+ [[file:gruvbox/][Gruvbox]]
+** [[file:gruvbox/][Gruvbox]]
 
 [[file:gruvbox/gruvbox-raspberry-pie.png]]
 
-+ [[file:kuromi/][Sanrio - Kuromi]]
+** [[file:kuromi/][Sanrio - Kuromi]]
 
 [[file:kuromi/kuromi-hacker-like.png]]
 
-+ [[file:purin/][Sanrio - Pom Pom Purin]]
+** [[file:purin/][Sanrio - Pom Pom Purin]]
 
 [[file:purin/purin-group-hug.png]]
 
-+ [[file:steampunk/][Steampunk]]
+** [[file:steampunk/][Steampunk]]
 
 [[file:steampunk/steampunk-vintage-computer-room.png]]
 
-+ [[file:voxel/][Voxel]]
+** [[file:voxel/][Voxel]]
 
 [[file:voxel/voxel-antarctica-ship.png]]
