@@ -1,41 +1,34 @@
 #+title: Sk4rd's Wallpapers
 #+options: toc:nil num:nil
 
-This is my wallpaper repository, featuring lots of different themes
-and art styles. You can find all of the wallpapers in 4K
-(3840x2160). I have also provided a shell script, which enables you to
-resize the images to your preferred resolution.
+Hey! This repository contains a multitude of 4K (3840x2160) wallpapers
+in various themes. Most of them are generated with DALL·E 3, but there
+are some exceptions.
 
 * Wallpapers
-Below are links to the directories containing my wallpapers,
-categorized by theme.
+Below, you'll find links to directories containing wallpapers with a
+specific theme, together with a top pick (for showcase purposes).
 
 + [[file:fractals/][Fractals]]
+
+[[file:fractals/fractals7.png]]
+
 + [[file:gruvbox/][Gruvbox]]
+
+[[file:gruvbox/gruvbox-raspberry-pie.png]]
+
 + [[file:kuromi/][Sanrio - Kuromi]]
+
+[[file:kuromi/kuromi-hacker-like.png]]
+
 + [[file:purin/][Sanrio - Pom Pom Purin]]
+
+[[file:purin/purin-group-hug.png]]
+
 + [[file:steampunk/][Steampunk]]
+
+[[file:steampunk/steampunk-vintage-computer-room.png]]
+
 + [[file:voxel/][Voxel]]
 
-* Resize script
-Before you can resize the images, you need to have =imagemagick=
-installed on your system.
-
-#+begin_src shell :results output :exports both
-  ./resize.sh -h
-#+end_src
-
-#+NAME: Result of -h
-#+RESULTS:
-: Usage: resize.sh [-h] [-i INPUT] [-o OUTPUT] [-r RESOLUTIONS]
-: Resize images to multiple resolutions.
-: 
-:     -h              display this help and exit
-:     -i INPUT        input image. (Required)
-:     -o OUTPUT       output directory. Defaults to current directory.
-:     -r RESOLUTIONS  comma separated list of resolutions (e.g. "800x600,1024x768"). (Required)
-: 
-: Example: resize.sh -i image.jpg -o resized/ -r "800x600,1024x768"
-
-** Dependencies
-+ =imagemagick=
+[[file:voxel/voxel-antarctica-ship.png]]
