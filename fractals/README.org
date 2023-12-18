@@ -1,0 +1,10 @@
+#+title: Wallpapers with fractal shapes
+
+[[file:./fractals1.png]]
+[[file:./fractals2.png]]
+[[file:./fractals3.png]]
+[[file:./fractals4.png]]
+[[file:./fractals5.png]]
+[[file:./fractals6.png]]
+[[file:./fractals7.png]]
+[[file:./fractals8.png]]

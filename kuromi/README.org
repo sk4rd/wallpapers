@@ -1,0 +1,10 @@
+#+title: Sanrio Kuromi wallpapers
+
+[[file:./kuromi-dekstop.png]]
+[[file:./kuromi-gothic.png]]
+[[file:./kuromi-hacker-like.png]]
+[[file:./kuromi-lineup.png]]
+[[file:./kuromi-peace.png]]
+[[file:./kuromi-sassy.png]]
+[[file:./kuromi-shining-smile.png]]
+[[file:./kuromi-yawning.png]]

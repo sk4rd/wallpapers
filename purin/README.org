@@ -1,0 +1,9 @@
+#+title: Sanrio Pom Pom Purin wallpapers
+
+[[file:./purin-group-hug.png]]
+[[file:./purin-onigiri-in-the-field.png]]
+[[file:./purin-picnic-and-friends.png]]
+[[file:./purin-proud-tiger.png]]
+[[file:./purin-sleepy.png]]
+[[file:./purin-sunflower-field.png]]
+[[file:./purin-the-happy-photograph.png]]

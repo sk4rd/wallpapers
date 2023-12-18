@@ -1,0 +1,10 @@
+#+title: Wallpapers in a voxel theme
+
+[[file:./voxel-antarctica-ship.png]]
+[[file:./voxel-blue-portal-red-foliage.jpg.png]]
+[[file:./voxel-colorful-city-grid.png]]
+[[file:./voxel-cyber-city.png]]
+[[file:./voxel-cyber-gate.png]]
+[[file:./voxel-marble-city-overgrown.png]]
+[[file:./voxel-marble-city-overgrown-zoomed-back.png]]
+[[file:./voxel-red-abyss.png]]

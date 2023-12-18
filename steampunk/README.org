@@ -1,0 +1,10 @@
+#+title: Wallpapers in a steampunk theme
+
+[[file:./steampunk-city-view.png]]
+[[file:./steampunk-colorful-gradient-compass.png]]
+[[file:./steampunk-colorful-gradient-framed.png]]
+[[file:./steampunk-colorful-gradient-x-shape.png]]
+[[file:./steampunk-computer-lab.png]]
+[[file:./steampunk-computer-prototype.png]]
+[[file:./steampunk-tux-overlord.png]]
+[[file:./steampunk-tux-zeppelin.png]]
