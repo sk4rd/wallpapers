@@ -1,6 +1,8 @@
 #+title: Sk4rd's Wallpapers
 #+options: toc:nil num:nil
 
+* [[https://codeberg.org/sk4rd/wallpapers][PROJECT MOVED TO CODEBERG.ORG]]
+
 Hey! This repository contains a multitude of 4K (3840x2160) wallpapers
 in various themes. Most of them are generated with DALL·E 3, but there
 are some exceptions.
